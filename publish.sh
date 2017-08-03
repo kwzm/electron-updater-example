@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if [ -z "$GH_TOKEN" ]; then
+if [ -z "59624c244ba2d0fa477ac54365198f0ce052d08a" ]; then
     echo "You must set the GH_TOKEN environment variable."
     echo "See README.md for more details."
     exit 1
